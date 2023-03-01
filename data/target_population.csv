@@ -1,0 +1,155 @@
+﻿Region,Province,Sex,target_population
+Bangkok,Bangkok,Male,1549387
+Bangkok,Bangkok,Female,1742801
+Central Region,Samut Prakan,Male,397547
+Central Region,Samut Prakan,Female,439276
+Central Region,Nonthaburi,Male,362821
+Central Region,Nonthaburi,Female,424275
+Central Region,Pathum Thani,Male,350146
+Central Region,Pathum Thani,Female,396272
+Central Region,Phra Nakhon Si Ayutthaya,Male,239731
+Central Region,Phra Nakhon Si Ayutthaya,Female,254291
+Central Region,Ang Thong,Male,78340
+Central Region,Ang Thong,Female,81751
+Central Region,Lop Buri,Male,225086
+Central Region,Lop Buri,Female,217974
+Central Region,Sing Buri,Male,57000
+Central Region,Sing Buri,Female,60077
+Central Region,Chai Nat,Male,90820
+Central Region,Chai Nat,Female,94266
+Central Region,Saraburi,Male,191843
+Central Region,Saraburi,Female,193152
+Central Region,Chon Buri,Male,471129
+Central Region,Chon Buri,Female,495295
+Central Region,Rayong,Male,227266
+Central Region,Rayong,Female,233744
+Central Region,Chanthaburi,Male,156615
+Central Region,Chanthaburi,Female,161221
+Central Region,Trat,Male,64629
+Central Region,Trat,Female,65190
+Central Region,Chachoengsao,Male,214517
+Central Region,Chachoengsao,Female,217714
+Central Region,Prachin Buri,Male,150191
+Central Region,Prachin Buri,Female,148976
+Central Region,Nakhon Nayok,Male,75978
+Central Region,Nakhon Nayok,Female,75881
+Central Region,Sa Kaeo,Male,170104
+Central Region,Sa Kaeo,Female,167526
+Central Region,Ratchaburi,Male,246481
+Central Region,Ratchaburi,Female,254125
+Central Region,Kanchanaburi,Male,246851
+Central Region,Kanchanaburi,Female,242486
+Central Region,Suphan Buri,Male,240061
+Central Region,Suphan Buri,Female,249757
+Central Region,Nakhon Pathom,Male,269160
+Central Region,Nakhon Pathom,Female,286977
+Central Region,Samut Sakhon,Male,162423
+Central Region,Samut Sakhon,Female,176149
+Central Region,Samut Songkhram,Male,54189
+Central Region,Samut Songkhram,Female,56540
+Central Region,Phetchaburi,Male,139210
+Central Region,Phetchaburi,Female,146382
+Central Region,Prachuap Khiri Khan,Male,161891
+Central Region,Prachuap Khiri Khan,Female,163794
+Northern Region,Chiang Mai,Male,457128
+Northern Region,Chiang Mai,Female,493204
+Northern Region,Lamphun,Male,113235
+Northern Region,Lamphun,Female,120984
+Northern Region,Lampang,Male,212079
+Northern Region,Lampang,Female,220034
+Northern Region,Uttaradit,Male,130086
+Northern Region,Uttaradit,Female,133852
+Northern Region,Phrae,Male,126965
+Northern Region,Phrae,Female,132351
+Northern Region,Nan,Male,143198
+Northern Region,Nan,Female,141364
+Northern Region,Phayao,Male,136092
+Northern Region,Phayao,Female,143073
+Northern Region,Chiang Rai,Male,334931
+Northern Region,Chiang Rai,Female,351954
+Northern Region,Mae Hong Son,Male,69965
+Northern Region,Mae Hong Son,Female,68258
+Northern Region,Nakhon Sawan,Male,301654
+Northern Region,Nakhon Sawan,Female,308229
+Northern Region,Uthai Thani,Male,93509
+Northern Region,Uthai Thani,Female,95378
+Northern Region,Kamphaeng Phet,Male,211161
+Northern Region,Kamphaeng Phet,Female,213527
+Northern Region,Tak,Male,153896
+Northern Region,Tak,Female,151588
+Northern Region,Sukhothai,Male,171338
+Northern Region,Sukhothai,Female,177553
+Northern Region,Phitsanulok,Male,250698
+Northern Region,Phitsanulok,Female,256370
+Northern Region,Phichit,Male,153349
+Northern Region,Phichit,Female,156446
+Northern Region,Phetchabun,Male,291645
+Northern Region,Phetchabun,Female,293892
+Northeastern Region,Nakhon Ratchasima,Male,789134
+Northeastern Region,Nakhon Ratchasima,Female,803791
+Northeastern Region,Buri Ram,Male,475427
+Northeastern Region,Buri Ram,Female,476286
+Northeastern Region,Surin,Male,417417
+Northeastern Region,Surin,Female,410936
+Northeastern Region,Si Sa Ket,Male,448482
+Northeastern Region,Si Sa Ket,Female,442857
+Northeastern Region,Ubon Ratchathani,Male,573436
+Northeastern Region,Ubon Ratchathani,Female,565591
+Northeastern Region,Yasothon,Male,166524
+Northeastern Region,Yasothon,Female,163641
+Northeastern Region,Chaiyaphum,Male,335669
+Northeastern Region,Chaiyaphum,Female,338195
+Northeastern Region,Amnat Charoen,Male,116379
+Northeastern Region,Amnat Charoen,Female,115451
+Northeastern Region,Bueng Kan,Male,129637
+Northeastern Region,Bueng Kan,Female,128002
+Northeastern Region,Nong Bua Lam Phu,Male,158031
+Northeastern Region,Nong Bua Lam Phu,Female,156919
+Northeastern Region,Khon Kaen,Male,540441
+Northeastern Region,Khon Kaen,Female,555153
+Northeastern Region,Udon Thani,Male,484003
+Northeastern Region,Udon Thani,Female,487580
+Northeastern Region,Loei,Male,191117
+Northeastern Region,Loei,Female,188475
+Northeastern Region,Nong Khai,Male,157915
+Northeastern Region,Nong Khai,Female,157562
+Northeastern Region,Maha Sarakham,Male,290796
+Northeastern Region,Maha Sarakham,Female,298240
+Northeastern Region,Roi Et,Male,403232
+Northeastern Region,Roi Et,Female,400542
+Northeastern Region,Kalasin,Male,303519
+Northeastern Region,Kalasin,Female,304320
+Northeastern Region,Sakon Nakhon,Male,356642
+Northeastern Region,Sakon Nakhon,Female,353907
+Northeastern Region,Nakhon Phanom,Male,222873
+Northeastern Region,Nakhon Phanom,Female,218735
+Northeastern Region,Mukdahan,Male,109275
+Northeastern Region,Mukdahan,Female,107240
+Southern Region,Nakhon Si Thammarat,Male,458369
+Southern Region,Nakhon Si Thammarat,Female,454040
+Southern Region,Krabi,Male,139788
+Southern Region,Krabi,Female,141863
+Southern Region,Phangnga,Male,77673
+Southern Region,Phangnga,Female,76724
+Southern Region,Phuket,Male,115781
+Southern Region,Phuket,Female,136617
+Southern Region,Surat Thani,Male,314399
+Southern Region,Surat Thani,Female,321054
+Southern Region,Ranong,Male,54282
+Southern Region,Ranong,Female,52788
+Southern Region,Chumphon,Male,150022
+Southern Region,Chumphon,Female,151277
+Southern Region,Songkhla,Male,405198
+Southern Region,Songkhla,Female,424927
+Southern Region,Satun,Male,92997
+Southern Region,Satun,Female,93929
+Southern Region,Trang,Male,187416
+Southern Region,Trang,Female,193177
+Southern Region,Phattalung,Male,151608
+Southern Region,Phattalung,Female,154711
+Southern Region,Pattani,Male,196290
+Southern Region,Pattani,Female,198814
+Southern Region,Yala,Male,146953
+Southern Region,Yala,Female,148714
+Southern Region,Narathiwat,Male,223595
+Southern Region,Narathiwat,Female,229012
